@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.2.2 (Python 3.13.3 on win32)" generated="2025-05-28T09:13:29.947232" rpa="false" schemaversion="5">
+<suite id="s1" name="QAx" source="C:\Users\gu062480\QAx">
+<suite id="s1-s1" name="Projects" source="C:\Users\gu062480\QAx\projects">
+<suite id="s1-s1-s1" name="Walkdog-Robot" source="C:\Users\gu062480\QAx\projects\walkdog-robot">
+<suite id="s1-s1-s1-s1" name="Hello" source="C:\Users\gu062480\QAx\projects\walkdog-robot\hello.robot">
+<test id="s1-s1-s1-s1-t1" name="Deve mostrar uma mensagem de boas vindas" line="5">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Hello Robot</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-05-28T09:13:30.030657" elapsed="0.000808"/>
+</kw>
+<status status="PASS" start="2025-05-28T09:13:30.028655" elapsed="0.003293"/>
+</test>
+<doc>Meu primeiro teste em Robot Framework</doc>
+<status status="PASS" start="2025-05-28T09:13:30.025226" elapsed="0.008209"/>
+</suite>
+<status status="PASS" start="2025-05-28T09:13:30.022002" elapsed="0.013985"/>
+</suite>
+<status status="PASS" start="2025-05-28T09:13:30.017791" elapsed="0.022923"/>
+</suite>
+<status status="PASS" start="2025-05-28T09:13:29.971767" elapsed="0.071903"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="QAx" id="s1" pass="1" fail="0" skip="0">QAx</stat>
+<stat name="Projects" id="s1-s1" pass="1" fail="0" skip="0">QAx.Projects</stat>
+<stat name="Walkdog-Robot" id="s1-s1-s1" pass="1" fail="0" skip="0">QAx.Projects.Walkdog-Robot</stat>
+<stat name="Hello" id="s1-s1-s1-s1" pass="1" fail="0" skip="0">QAx.Projects.Walkdog-Robot.Hello</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
