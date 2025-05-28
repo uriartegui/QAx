@@ -1,0 +1,30 @@
+{"level":30,"time":"2025-05-28T16:20:32.790Z","pid":23384,"hostname":"IN36677000","msg":"Listening on 127.0.0.1:57551"}
+(node:23384) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2025-05-28T16:20:33.052Z","pid":23384,"hostname":"IN36677000","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-05-28T16:20:33.053Z","pid":23384,"hostname":"IN36677000","msg":"currentBrowser: undefined"}
+{"level":30,"time":"2025-05-28T16:20:35.798Z","pid":23384,"hostname":"IN36677000","msg":"Changed active context"}
+{"level":30,"time":"2025-05-28T16:20:42.586Z","pid":23384,"hostname":"IN36677000","msg":"Video path: undefined"}
+{"level":30,"time":"2025-05-28T16:20:42.587Z","pid":23384,"hostname":"IN36677000","msg":"Changed active page"}
+{"level":30,"time":"2025-05-28T16:20:45.838Z","pid":23384,"hostname":"IN36677000","msg":"End of node method newPage"}
+{"level":30,"time":"2025-05-28T16:20:47.848Z","pid":23384,"hostname":"IN36677000","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2025-05-28T16:20:47.848Z","pid":23384,"hostname":"IN36677000","Take screenshot with options: ":{"path":"C:\\Users\\gu062480\\QAx\\results\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2025-05-28T16:20:47.946Z","pid":23384,"hostname":"IN36677000","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2025-05-28T16:20:47.957Z","pid":23384,"hostname":"IN36677000","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T16:20:47.960Z","pid":23384,"hostname":"IN36677000","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T16:20:47.963Z","pid":23384,"hostname":"IN36677000","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T16:20:47.966Z","pid":23384,"hostname":"IN36677000","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T16:20:47.968Z","pid":23384,"hostname":"IN36677000","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T16:20:47.972Z","pid":23384,"hostname":"IN36677000","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T16:20:47.975Z","pid":23384,"hostname":"IN36677000","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T16:20:47.978Z","pid":23384,"hostname":"IN36677000","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T16:20:47.982Z","pid":23384,"hostname":"IN36677000","msg":"Changed active context"}
+{"level":30,"time":"2025-05-28T16:20:47.982Z","pid":23384,"hostname":"IN36677000","msg":"Changing current active page: page=73decb29-bf5c-49f2-8310-ec42068cbcfa"}
+{"level":30,"time":"2025-05-28T16:20:47.982Z","pid":23384,"hostname":"IN36677000","msg":"Changed active page"}
+{"level":30,"time":"2025-05-28T16:20:47.986Z","pid":23384,"hostname":"IN36677000","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-05-28T16:20:47.994Z","pid":23384,"hostname":"IN36677000","msg":"Removed page=ba66351e-7701-4b66-a17c-3b3df11856c4 from context=ba9e9d7d-473f-4dfd-ba3f-821d167d3ef5 page stack"}
+{"level":30,"time":"2025-05-28T16:20:47.997Z","pid":23384,"hostname":"IN36677000","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-05-28T16:20:48.008Z","pid":23384,"hostname":"IN36677000","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T16:20:48.008Z","pid":23384,"hostname":"IN36677000","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T16:20:48.607Z","pid":23384,"hostname":"IN36677000","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2025-05-28T16:20:48.697Z","pid":23384,"hostname":"IN36677000","msg":"End of node method closeAllBrowsers"}
