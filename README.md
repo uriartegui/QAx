@@ -1,5 +1,6 @@
 # QAx
 📋 Projeto de Quality Assurance (QA)
+
 Este repositório contém a estrutura e os scripts de testes relacionados ao processo de Quality Assurance para garantir a qualidade, confiabilidade e desempenho do software.
 
 ✅ Objetivos
