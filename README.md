@@ -33,8 +33,6 @@ QAx/
 ├── tests/             # Casos de teste principais
 ├── resources/         # Keywords reutilizáveis
 ├── logs/              # Relatórios e evidências das execuções
-├── .gitignore
-├── requirements.txt   # Dependências do projeto
 └── README.md
 ```
 
