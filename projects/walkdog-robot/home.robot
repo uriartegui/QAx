@@ -1,7 +1,8 @@
 *** Settings ***
-Documentation        Suite de testes da home page
+Documentation       Suite de testes da home page
 
-Library        Browser
+Library             Browser
+
 
 *** Test Cases ***
 Home page deve estar online
