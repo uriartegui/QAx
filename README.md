@@ -30,10 +30,30 @@ O **QAx** foi desenvolvido como parte do meu aprendizado e evolução profission
 
 ```text
 QAx/
-├── tests/             # Casos de teste principais
-├── resources/         # Keywords reutilizáveis
-├── logs/              # Relatórios e evidências das execuções
+├── logs/                  # Relatórios de execução gerados automaticamente
+│
+├── resources/             # Recursos reutilizáveis do projeto
+│   ├── actions/           # Keywords agrupadas por funcionalidades
+│   │   └── signup.resource
+│   │       - Go to signup page
+│   │       - Fill signup form
+│   │       - Submit signup form
+│   │       - Popup should be
+│   │       - Alert should be
+│   │
+│   ├── fixtures/          # Arquivos auxiliares (ex: imagens de CNH para upload)
+│   │
+│   └── base.resource      # Arquivo principal que importa e organiza os recursos
+│       - Start session
+│       - Finish session
+│
+├── tests/                 # Casos de teste organizados por fluxo
+│   └── test_signup.robot
+│
+├── .gitignore
+├── requirements.txt       # Dependências do projeto
 └── README.md
+
 ```
 
 ---
